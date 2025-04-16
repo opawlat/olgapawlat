@@ -7,6 +7,6 @@ export const metaData = {
 };
 
 export const socialLinks = {
-  linkedin: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/olgapawlat",
   email: "mailto:pawlat.olga@gmail.com",
 };
