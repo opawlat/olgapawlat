@@ -1,12 +1,16 @@
 export const metaData = {
-  baseUrl: "https://olgapawlat.vercel.app/",
+  baseUrl: "https://olgapawlat.vercel.com/",
   title: "Olga Pawłat",
-  ogImage: "/opengraph-image.png",
+  name: "Olga Pawłat",
+  ogImage: "/IMG_0872.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Rozwijam produkty IT",
 };
 
 export const socialLinks = {
+  twitter: "https://x.com/1tssirius",
+  github: "https://github.com/1msirius/Nextfolio",
+  instagram: "https://www.instagram.com/",
   linkedin: "https://www.linkedin.com/olgapawlat",
   email: "mailto:pawlat.olga@gmail.com",
 };
